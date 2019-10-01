@@ -15,13 +15,13 @@
 (B) Resoultion Of My Life (This Year)
     - Internship in Aegislab.
     - Developing Criespy Rich (Sampingan).
-    - Fundamental Programming (Mr. Rianov Modul / Materi)
+    - Focus on Fundamental Programming (Mr. Rianov modul / materi)
     - Learn more about git, github, golang on PC by friends references. (Medium, Stackoverflow, Youtube.).
-    - Join class / workshop software development
-      ^ Join Purwadikaschool Bandung
-      ^ Or Join Binus Workshop Bandung
+    - Join class / workshop software development.
+      ^ Join hectiv8 Program
     - Join class English language
     - Join class korean language
-      ^ Join SNSD Class language Bandung
+      ^ Join Running man Class Bandung
     - Join IELTS Preparation class
-      ^ Join Suzy Class language Bandung
+      ^ Join Jhon Class Bandung
+    - Get IELTS scores 7.5
