@@ -1,12 +1,23 @@
-Plan A #1 Resolution of my life.
+(A) Resoultion Of My Life
+    - Developing Food & Baverages Business.
     - Making Robotics Training for kids.
       ^ Makings Visi and Mission
       ^ Logos
       ^ Concept
       ^ Making Silabus and final Project for kids
       ^ Open Recruitment for mentors ; (Student / Final semesters)
+    - Focusing on Software Development, being a consultant.
+    - Continuing my study (Master, Doctor) outside Indonesia.
     - Continuing My Study:
       ^ ITB - Marketing / Entrepreneur
       ^ Irelandia / South Korea - Biomedical Engineering
-      
     - Continuing Professional World - To be A Software Development
+(B) Resoultion Of My Life (This Year)
+    - Internship in Aegislab.
+    - Developing Criespy Rich (Sampingan).
+    - Learn more about git, github, golang on PC by friends references. (Medium, Stackoverflow, Youtube.).
+    - Join class / workshop software development.
+    - Join class English language
+    - Join class korean language
+    - Join IELTS Preparation class
+    - Get IELTS scores 7.5
